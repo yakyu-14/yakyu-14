@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:jyu114?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:jyu114?theme=miku&padding=6&scale=1&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
