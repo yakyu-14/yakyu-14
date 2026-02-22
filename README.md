@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="left">Ⓘ_Ⓘ</h2>
 
-<!--
-**yakyu-14/yakyu-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">https://j5mt.atabook.org<br>https://timlockwood.carrd.co</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:jyu114?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
